@@ -1,0 +1,27 @@
+p{
+    text-align: center;
+    font-size:24px;
+}
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    margin-top: 40px; 
+}
+.box{
+    width: 300px;
+    min-height: 500px;
+    padding: 40px 32px;
+    background-color: white;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 10px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    text-align: left;
+}
