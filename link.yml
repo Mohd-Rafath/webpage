@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        
+        <div class="box">
+           <h2 style="margin-top: 0; margin-bottom: 46px;">sign in</h2>
+           <form>
+            <input type="text" placeholder="Email or Phone" style="width: 100%; padding: 10px; margin-bottom: 10px;">
+            <input type="password" placeholder="Password" style="width: 100%; padding: 10px; margin-bottom: 10px;">
+            <div style="margin-bottom: 10px;">
+            <input type="checkbox" id="remember">
+             <label for="remember">keep me login</label>
+             </div>
+            <button type="submit" style="width: 100%; padding: 10px; background-color: #0073b1; color: white; border: none; cursor: pointer;">Sign In</button>
+            </form>
+
+            </div>
+            </div>
+            
+</html>
